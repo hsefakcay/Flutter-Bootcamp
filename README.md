@@ -1,6 +1,8 @@
-# tasarim_calismasi
+![Screenshot_1699636873](https://github.com/hsefakcay/Flutter-Bootcamp/assets/121294367/9de338ce-3b8f-4cbf-a111-ed77373e0f2e)# tasarim_calismasi
 
 A new Flutter project.
+![Uploading image.png…]()
+
 
 ## Getting Started
 
